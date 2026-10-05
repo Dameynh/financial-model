@@ -1,4 +1,4 @@
-# Python Financial Model — 3-Statement Forecast, DCF & Sensitivity Analysis
+# Python Financial Model — 3-Statement Forecast & DCF Valuation
 
 A Python-based financial modeling project that creates a historical financial model, 5-year financial forecast, DCF valuation, and WACC / terminal-growth sensitivity analysis.
 
